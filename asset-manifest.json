@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c535978c.chunk.css",
+    "main.js": "/static/js/main.702af797.chunk.js",
+    "main.js.map": "/static/js/main.702af797.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.83c3e0c4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.83c3e0c4.js.map",
+    "static/js/2.32dad36b.chunk.js": "/static/js/2.32dad36b.chunk.js",
+    "static/js/2.32dad36b.chunk.js.map": "/static/js/2.32dad36b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d440fc34fd7edd631f73c8d6ea813c2c.js": "/precache-manifest.d440fc34fd7edd631f73c8d6ea813c2c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.c535978c.chunk.css.map": "/static/css/main.c535978c.chunk.css.map",
+    "static/js/2.32dad36b.chunk.js.LICENSE.txt": "/static/js/2.32dad36b.chunk.js.LICENSE.txt",
+    "static/media/Waterloo.png": "/static/media/Waterloo.70850ccb.png",
+    "static/media/resume.png": "/static/media/resume.4bb611e0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83c3e0c4.js",
+    "static/js/2.32dad36b.chunk.js",
+    "static/css/main.c535978c.chunk.css",
+    "static/js/main.702af797.chunk.js"
+  ]
+}
